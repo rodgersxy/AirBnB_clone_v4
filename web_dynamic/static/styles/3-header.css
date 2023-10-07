@@ -17,6 +17,9 @@ header .logo {
 	margin-right: 30px;
 	background-color: #cccccc;
 	margin-left: auto;
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .available {
